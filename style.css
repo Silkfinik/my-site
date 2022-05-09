@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: yellow;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 72px;
+    color:white;
+}
+
+.container {
+    width: 100%;
+    background: blue;
+    max-width: 1300px;
+    margin: 0 auto;
+   
+}
